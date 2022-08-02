@@ -51,7 +51,7 @@ body {
 }
 hr {
   margin-top: 20px;
-  border-style: inset;
+  border-style: solid;
   border-width: 2px;
 }
 .footer {
